@@ -2,7 +2,7 @@
 
 > Déploiement et sécurisation d'une application web sur Kubernetes avec les meilleures pratiques de sécurité : Secrets, RBAC, Network Policy, SecurityContext, Resource Limits.
 
-**Module** : Sécurité des Infrastructures Cloud  
+**Filière** : RSSP — Réseaux, Systèmes et Services Programmables
 **Établissement** : ENSA Marrakech | Université Cadi Ayyad  
 **Année** : 2025/2026  
 **Réalisé par** : AIT SI AHMED Abdellatif
